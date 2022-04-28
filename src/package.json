@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "date-utils": "^1.2.21",
+    "firebase": "^9.6.11"
+  }
+}
